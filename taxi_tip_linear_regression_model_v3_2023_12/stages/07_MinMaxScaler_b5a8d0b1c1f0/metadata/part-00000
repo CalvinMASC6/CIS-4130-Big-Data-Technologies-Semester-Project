@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1715973338781,"sparkVersion":"3.5.0","uid":"MinMaxScaler_b5a8d0b1c1f0","paramMap":{"outputCol":"dropoffMonthScaled","inputCol":"dropoffMonthVector"},"defaultParamMap":{"min":0.0,"outputCol":"MinMaxScaler_b5a8d0b1c1f0__output","max":1.0}}

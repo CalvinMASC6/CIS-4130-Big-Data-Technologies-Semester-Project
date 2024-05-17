@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1715973344923,"sparkVersion":"3.5.0","uid":"MinMaxScaler_d969ee7ccbcb","paramMap":{"outputCol":"tripDistanceScaled","inputCol":"tripDistanceVector"},"defaultParamMap":{"outputCol":"MinMaxScaler_d969ee7ccbcb__output","max":1.0,"min":0.0}}
