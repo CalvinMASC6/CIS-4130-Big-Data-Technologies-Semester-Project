@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1715975731483,"sparkVersion":"3.5.0","uid":"MinMaxScaler_80fa26d16b31","paramMap":{"inputCol":"dropoffDayVector","outputCol":"dropoffDayScaled"},"defaultParamMap":{"outputCol":"MinMaxScaler_80fa26d16b31__output","max":1.0,"min":0.0}}

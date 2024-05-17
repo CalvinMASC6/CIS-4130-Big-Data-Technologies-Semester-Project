@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1715973351474,"sparkVersion":"3.5.0","uid":"MinMaxScaler_c172e21bc3ac","paramMap":{"outputCol":"combinedFeeScaled","inputCol":"combinedFeeVector"},"defaultParamMap":{"min":0.0,"outputCol":"MinMaxScaler_c172e21bc3ac__output","max":1.0}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1715975750197,"sparkVersion":"3.5.0","uid":"VectorAssembler_453583586a31","paramMap":{"outputCol":"combinedFeeVector","inputCols":["combined_fee"]},"defaultParamMap":{"outputCol":"VectorAssembler_453583586a31__output","handleInvalid":"error"}}
