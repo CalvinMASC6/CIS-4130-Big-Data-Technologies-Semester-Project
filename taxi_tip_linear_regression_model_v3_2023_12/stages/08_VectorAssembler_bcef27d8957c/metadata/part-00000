@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1715973342947,"sparkVersion":"3.5.0","uid":"VectorAssembler_bcef27d8957c","paramMap":{"inputCols":["trip_distance"],"outputCol":"tripDistanceVector"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_bcef27d8957c__output"}}
