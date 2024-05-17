@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1715973312732,"sparkVersion":"3.5.0","uid":"MinMaxScaler_ea127c176374","paramMap":{"outputCol":"pickupHourScaled","inputCol":"pickupHourVector"},"defaultParamMap":{"outputCol":"MinMaxScaler_ea127c176374__output","min":0.0,"max":1.0}}
