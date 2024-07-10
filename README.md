@@ -1,7 +1,9 @@
 # CIS-4130-Big-Data-Technologies-Semester-Project
-Processing and insight finding for large amounts of data via google cloud platform. Based on the New York Taxi Data for yellow taxi's.\n
+Processing and insight finding for large amounts of data via google cloud platform. Based on the New York Taxi Data for yellow taxi's.
+
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 First time using pyspark and google cloud platform so there are some rookie mistakes.
+
 Note the standard MIT License.
 In summary, this project was gathering data from a source, in my case the taxi cab database for the New York state and surrounding areas for yellow taxi cabs. 
 First is the data acquisition, the code is in the folder labeled ‘dataExtraction’. I used selenium at the time but I have since learned it would have been more efficient to use curl to accomplish the data transfer, so I would use that in future. Also, I renamed the files in my selenium code, but have since been told that it's best to just leave the files with the default names. In the data cleaning step I would rename the files back to their normal names when uploading them to the cloud.
